@@ -29,7 +29,7 @@ We specialize in creating Python-powered solutions for businesses and developers
   
     - Facebook: [Visit Here](https://www.facebook.com/people/Neszen/61564058027923/)
   
-    - Instagram: [[Visit Here]](https://www.instagram.com/neszen_/)
+    - Instagram: [Visit Here](https://www.instagram.com/neszen_/)
 - 😄 **Fun Fact**
   
     We believe Python isn't just a programming language; it's a gateway to infinite possibilities!
